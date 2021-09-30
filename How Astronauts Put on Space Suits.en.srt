@@ -1,0 +1,790 @@
+﻿1
+00:00:15,470 --> 00:00:20,189
+it's Norm from Tested calm and I'm here
+at the neutral buoyancy lab NASA's
+
+2
+00:00:20,189 --> 00:00:24,390
+neutral buoyancy lab in Houston Texas
+this is where NASA trains astronauts
+
+3
+00:00:24,390 --> 00:00:27,119
+before they can go to space and hero
+Terry done you're the training
+
+4
+00:00:27,119 --> 00:00:32,460
+Operations Manager and Terry we're in
+front of a spacesuit right this is the
+
+5
+00:00:32,460 --> 00:00:37,170
+extra vehicular Mobility unit or EMU as
+we call it and it's the spacesuits that
+
+6
+00:00:37,170 --> 00:00:41,610
+astronauts wear for spacewalks either
+the Space Shuttle back in those days or
+
+7
+00:00:41,610 --> 00:00:45,570
+the space station now and so this is the
+news this is the design that's been used
+
+8
+00:00:45,570 --> 00:00:49,829
+for decades right it's essentially
+unchanged for the past 40 years now
+
+9
+00:00:49,829 --> 00:00:53,670
+we've seen what the spacesuit kind of
+looks like you know in photos and videos
+
+10
+00:00:53,670 --> 00:00:57,780
+but we don't really know what goes
+underneath and how an astronaut she puts
+
+11
+00:00:57,780 --> 00:01:00,719
+on the suit can you show us the
+different components of a spacesuit and
+
+12
+00:01:00,719 --> 00:01:03,780
+all the various different accessories
+that they put on
+
+13
+00:01:03,780 --> 00:01:07,020
+well sure this is really just the outer
+layer and it starts with a few things
+
+14
+00:01:07,020 --> 00:01:11,220
+that we have over here now on this table
+we have the components to go inside of
+
+15
+00:01:11,220 --> 00:01:17,280
+the suit starting with the diaper
+underwear in space oh but it's a diaper
+
+16
+00:01:17,280 --> 00:01:22,530
+right and it's big enough for an adult
+but it's the same purpose and ideally
+
+17
+00:01:22,530 --> 00:01:24,960
+you're not going to have to use it but
+in reality you're going to be in that
+
+18
+00:01:24,960 --> 00:01:29,158
+suit about six hours so and this is only
+worn when you're in going to wear a
+
+19
+00:01:29,159 --> 00:01:35,520
+spacesuit right and now when you're just
+flown around the ISS up to that right
+
+20
+00:01:35,520 --> 00:01:39,420
+personal preference I suppose but when
+you got to go you got to go no over the
+
+21
+00:01:39,420 --> 00:01:42,479
+diaper you're going to have basically
+off-the-shelf cotton long johns
+
+22
+00:01:42,479 --> 00:01:47,009
+alright so mine is fine right and the
+idea is that it's going to wick away any
+
+23
+00:01:47,009 --> 00:01:50,310
+sweat that you have in there so that
+your body doesn't get slippery and
+
+24
+00:01:50,310 --> 00:01:53,340
+you're not going to puddle sweat at the
+bottom of the suit so you would have the
+
+25
+00:01:53,340 --> 00:01:56,159
+pants and then also a long-sleeve shirt
+that would go over that sounds good
+
+26
+00:01:56,159 --> 00:01:59,340
+sounds like everything I could buy at a
+supermarket right now right so far
+
+27
+00:01:59,340 --> 00:02:02,820
+you're good be happy you're ready to go
+into space next you're going to get
+
+28
+00:02:02,820 --> 00:02:06,750
+derailed a little bit this is the liquid
+cooled ventilation garment and basically
+
+29
+00:02:06,750 --> 00:02:10,410
+it's a jumpsuit with very stretchy
+material but woven in through that
+
+30
+00:02:10,410 --> 00:02:15,450
+material are tubes
+on cold water so by varying the flow
+
+31
+00:02:15,450 --> 00:02:18,660
+rate of that cold water you can manage
+your body temperature you can imagine
+
+32
+00:02:18,660 --> 00:02:21,299
+with all this stuff underneath and then
+all the stuff you're going to put on the
+
+33
+00:02:21,300 --> 00:02:25,080
+outside you get hot very quickly
+especially if you're working outside and
+
+34
+00:02:25,080 --> 00:02:28,680
+so it's just through these tubes here
+and and it's designed so those are the
+
+35
+00:02:28,680 --> 00:02:33,390
+points where heat can be can be release
+more effectively right it's distributed
+
+36
+00:02:33,390 --> 00:02:36,750
+well enough that you don't feel point
+cooling it's it's basically an overall
+
+37
+00:02:36,750 --> 00:02:40,680
+effect okay and then we've got the
+communication cap and this is really
+
+38
+00:02:40,680 --> 00:02:43,920
+kind of a NASA trademark this is the
+Snoopy cap that ya read about forever
+
+39
+00:02:43,920 --> 00:02:46,369
+and OH
+
+40
+00:02:46,650 --> 00:02:52,260
+so if you'd like you may try it on I
+will Wow all right so this plugs in Vani
+
+41
+00:02:52,260 --> 00:02:56,040
+this will plug into a port on the suit
+and then you've got electrical power and
+
+42
+00:02:56,040 --> 00:02:59,340
+there's a radio built in that lets you
+talk to the guys back inside the space
+
+43
+00:02:59,340 --> 00:03:04,590
+station and indirectly back down to
+Mission Control we would also have a few
+
+44
+00:03:04,590 --> 00:03:08,730
+other ancillary items that are kind of
+at the discretion of the astronaut
+
+45
+00:03:08,730 --> 00:03:13,530
+they'll be wearing cotton gloves that go
+underneath the regular gloves and again
+
+46
+00:03:13,530 --> 00:03:16,170
+it's the same idea is the undergarments
+you're just going to want to wick away
+
+47
+00:03:16,170 --> 00:03:20,820
+the sweat underneath and then we also
+have a variety of pads and shields that
+
+48
+00:03:20,820 --> 00:03:24,690
+help limit any contact with the metal
+inside the suit so you don't get soft
+
+49
+00:03:24,690 --> 00:03:28,590
+spots and bruising while you're in there
+this would be an example of those all
+
+50
+00:03:28,590 --> 00:03:32,970
+right and then after they put all this
+on they put on the EMU right the outer
+
+51
+00:03:32,970 --> 00:03:37,650
+part of the suit all right let's go
+check that out since we're here at the
+
+52
+00:03:37,650 --> 00:03:41,640
+NBL these suits are used for training
+purposes how does this suit differ than
+
+53
+00:03:41,640 --> 00:03:45,570
+what the astronauts actually wear ISS
+well if you take away the life-support
+
+54
+00:03:45,570 --> 00:03:48,630
+system which is the backpack looking
+thing appear there's really no
+
+55
+00:03:48,630 --> 00:03:51,980
+difference in fact a lot of the hardware
+that we use here for training is
+
+56
+00:03:51,980 --> 00:03:56,220
+hardware that's flown in space before
+been in space and repurposed as training
+
+57
+00:03:56,220 --> 00:03:59,459
+right I like to think it's been upgraded
+for training but they call it
+
+58
+00:03:59,459 --> 00:04:03,240
+downgrading for training an astronaut
+would have to disassemble it from it
+
+59
+00:04:03,240 --> 00:04:06,000
+hanging on a wall for putting it on
+right they would want to break it down
+
+60
+00:04:06,000 --> 00:04:08,910
+into the same components like we have
+here and what do they put on first um
+
+61
+00:04:08,910 --> 00:04:12,540
+the first thing you're going to do is
+put on the lower torso assembly which to
+
+62
+00:04:12,540 --> 00:04:15,570
+you and me would be a pair of pants with
+the shoes built in they call it space
+
+63
+00:04:15,570 --> 00:04:19,500
+walking but you don't use your legs a
+whole lot of space working so they would
+
+64
+00:04:19,500 --> 00:04:23,430
+put this on and it gets pulled out to
+about their waist once they've got that
+
+65
+00:04:23,430 --> 00:04:26,620
+they're going to waddle underneath this
+like in space it's not waddling
+
+66
+00:04:26,620 --> 00:04:30,310
+going to float underneath here and then
+squat through the bottom of this upper
+
+67
+00:04:30,310 --> 00:04:33,820
+torso assembly which is rigidly mounted
+to the inside of the space station and
+
+68
+00:04:33,820 --> 00:04:37,000
+then get their arms up through here and
+their head will pop out of the top and
+
+69
+00:04:37,000 --> 00:04:42,340
+then at that point they're in the suit
+and this is a very rigid suit like a
+
+70
+00:04:42,340 --> 00:04:46,419
+does not lie mobility in here right the
+upper part that they're called the heart
+
+71
+00:04:46,419 --> 00:04:50,530
+upper torso for a reason it's really a
+hard shell and despite the obvious
+
+72
+00:04:50,530 --> 00:04:54,099
+comfort level of that there's a reason
+for it and you've got to have all these
+
+73
+00:04:54,100 --> 00:04:57,130
+different things a life support system
+the controls for the suit your tools all
+
+74
+00:04:57,130 --> 00:05:00,669
+have to be rigidly mounted so you need
+that hard shell to be able to do that
+
+75
+00:05:00,669 --> 00:05:04,659
+what are the materials that are used for
+the EMU it's many different materials
+
+76
+00:05:04,660 --> 00:05:08,350
+and layers I imagine right there's a few
+different composites that I can't
+
+77
+00:05:08,350 --> 00:05:12,130
+explain all the details of a secret
+right the different composites that make
+
+78
+00:05:12,130 --> 00:05:15,490
+up the hard upper part and then several
+layers of materials that make up the
+
+79
+00:05:15,490 --> 00:05:20,350
+bladder part as well so they have the
+upper unit and then what's next they're
+
+80
+00:05:20,350 --> 00:05:22,539
+going to button these two pieces
+together and they'll have an assistant
+
+81
+00:05:22,539 --> 00:05:26,349
+that helps them do that the bottom part
+is attached to the upper part here and
+
+82
+00:05:26,350 --> 00:05:32,320
+then they'll put on gloves and I've got
+one here if you'd like to try that uh no
+
+83
+00:05:32,320 --> 00:05:40,000
+yeah there's lace right handed it's a
+very very tight fit there and the gloves
+
+84
+00:05:40,000 --> 00:05:42,820
+are the customized some extent a to a
+degree
+
+85
+00:05:42,820 --> 00:05:47,169
+um these components the lower torso or
+something the harder part or so you
+
+86
+00:05:47,169 --> 00:05:50,590
+really get small medium and large and
+you get the best fit within that for the
+
+87
+00:05:50,590 --> 00:05:54,940
+gloves we've got dozens of different
+sizes so while we don't necessarily make
+
+88
+00:05:54,940 --> 00:05:59,199
+custom gloves for every person there's a
+variation that we get pretty close with
+
+89
+00:05:59,199 --> 00:06:04,660
+just about everybody yeah and what's
+important feature of the glove you know
+
+90
+00:06:04,660 --> 00:06:08,500
+in terms of usability functionality and
+safety there's a fine line between the
+
+91
+00:06:08,500 --> 00:06:13,389
+dexterity that they have to be able to
+do a job and the comfort of the fit so
+
+92
+00:06:13,389 --> 00:06:17,349
+my opinion and I'm sure a lot of people
+would disagree is that a little bit of
+
+93
+00:06:17,349 --> 00:06:20,949
+pain is just right that means you're
+getting the best dexterity you can out
+
+94
+00:06:20,949 --> 00:06:24,849
+of that glove if it's too comfortable
+you're probably missing a little bit of
+
+95
+00:06:24,849 --> 00:06:29,020
+the nuance of being able to work so if
+you're to get it sort of screw a hundred
+
+96
+00:06:29,020 --> 00:06:33,070
+times right you don't want the glove in
+your way and then both gloves on and
+
+97
+00:06:33,070 --> 00:06:37,590
+finally the helmet then right then the
+helmet
+
+98
+00:06:40,080 --> 00:06:44,919
+all right oh it's very echoing here
+right now when you're really in the suit
+
+99
+00:06:44,920 --> 00:06:47,890
+you've got the air flowing through
+you're probably not going to notice that
+
+100
+00:06:47,890 --> 00:06:51,700
+you've got a lot of materials in there
+that would damp that sound and with the
+
+101
+00:06:51,700 --> 00:06:55,840
+helmet on the helmet hasn't turned when
+vastra nods head turns that's right your
+
+102
+00:06:55,840 --> 00:07:00,099
+field of view is very limited so is your
+situational awareness and so you can
+
+103
+00:07:00,100 --> 00:07:03,640
+basically look almost all the way to
+your right and left and then you need to
+
+104
+00:07:03,640 --> 00:07:07,719
+look people look down as well correct so
+if you need to see beyond those views
+
+105
+00:07:07,720 --> 00:07:11,760
+you're turning your whole torso like
+you're in traction to be able to do that
+
+106
+00:07:11,760 --> 00:07:17,980
+now you're right here there's a knob
+twist that forward and that's the visor
+
+107
+00:07:17,980 --> 00:07:23,220
+right there's also one by your left ear
+
+108
+00:07:23,310 --> 00:07:29,560
+that would be more of a shield to keep
+direct Sun away from you and when you're
+
+109
+00:07:29,560 --> 00:07:32,410
+in space you don't have the atmosphere
+kind of filtering out the light the
+
+110
+00:07:32,410 --> 00:07:36,610
+sunlight is very bright and what
+material is this visor made out no
+
+111
+00:07:36,610 --> 00:07:43,090
+that's just regular probably carbonate
+looks and plastic very very cool well
+
+112
+00:07:43,090 --> 00:07:47,140
+that's the anatomy of a spacesuit
+attached to the spacesuit is life
+
+113
+00:07:47,140 --> 00:07:51,219
+support unit and different tools then
+right on the back would be the life
+
+114
+00:07:51,220 --> 00:07:54,970
+support system and on the front would be
+the tools that they use and that's all
+
+115
+00:07:54,970 --> 00:07:57,550
+stored in another lab all right well
+let's go check those out as well all
+
+116
+00:07:57,550 --> 00:07:59,670
+right
+
+117
+00:08:09,199 --> 00:08:14,910
+okay Terry so these are the astronauts
+tools it's a small selection they have
+
+118
+00:08:14,910 --> 00:08:18,570
+available yes this is what they would
+use and this what is this device here
+
+119
+00:08:18,570 --> 00:08:22,590
+this is called the mini workstation and
+this part would attach directly to that
+
+120
+00:08:22,590 --> 00:08:26,008
+hard upper torso that we were looking at
+and plug right in right and you can
+
+121
+00:08:26,009 --> 00:08:28,889
+think of this as their tool belt
+most of the stuff they'll use on any
+
+122
+00:08:28,889 --> 00:08:32,250
+given spacewalk they would try to store
+it on here to keep it handy and they
+
+123
+00:08:32,250 --> 00:08:35,669
+could choose from a different selection
+of tools on the space station before
+
+124
+00:08:35,669 --> 00:08:38,400
+they go on the spacewalk right they
+would decide based on whatever tasks
+
+125
+00:08:38,400 --> 00:08:41,010
+they're going to do that time so give me
+example of some of the tools they use
+
+126
+00:08:41,010 --> 00:08:45,630
+what we have here is a basic ratchet
+wrench and it's a lot like the ratchet
+
+127
+00:08:45,630 --> 00:08:49,560
+wrench you would use at home it's a 3 H
+Drive and the main difference is being
+
+128
+00:08:49,560 --> 00:08:52,890
+you've got a big wheel in the back so if
+you're going to be in a tight space
+
+129
+00:08:52,890 --> 00:08:55,920
+operating this you don't want to have to
+reach down and turn the socket like you
+
+130
+00:08:55,920 --> 00:08:58,770
+would at home you can get that glove and
+put it on the background turn it that
+
+131
+00:08:58,770 --> 00:09:01,319
+way
+and also you've got a nice big handle
+
+132
+00:09:01,320 --> 00:09:04,230
+down here that gives you plenty of
+gripping strength and it's ridged
+
+133
+00:09:04,230 --> 00:09:07,920
+now another feature is they have a
+cheater bar they can flip this into the
+
+134
+00:09:07,920 --> 00:09:10,860
+bottom you've got the same sort of
+handle down here but now you've pretty
+
+135
+00:09:10,860 --> 00:09:13,470
+much doubled your moment arm so you can
+really put a lot of torque on in
+
+136
+00:09:13,470 --> 00:09:15,839
+something and at this point you have to
+be careful that you're not going to
+
+137
+00:09:15,839 --> 00:09:19,410
+break either the bolt or the head of the
+socket wrench and so just turn the
+
+138
+00:09:19,410 --> 00:09:22,709
+socket in space it's different than
+doing it on earth the socket is turning
+
+139
+00:09:22,709 --> 00:09:25,949
+you as much as you return the socket so
+a lot of times it's going to be a
+
+140
+00:09:25,950 --> 00:09:28,650
+one-handed operation where you're going
+to use one hand to stabilize yourself
+
+141
+00:09:28,650 --> 00:09:32,339
+while the other hand does the work or
+you have the option of using a foot
+
+142
+00:09:32,339 --> 00:09:35,430
+restraint that would hold you in place
+do all these tools help me tethered to
+
+143
+00:09:35,430 --> 00:09:39,120
+the astronaut at all times or it's okay
+for them to happen for hand no they
+
+144
+00:09:39,120 --> 00:09:42,750
+never want to have it just relying on
+their grip to keep it there so we have
+
+145
+00:09:42,750 --> 00:09:46,890
+these equipment tethers if they're doing
+a job correctly any tool that they're
+
+146
+00:09:46,890 --> 00:09:50,010
+using is always going to be attached to
+one of these others and then they wanted
+
+147
+00:09:50,010 --> 00:09:54,180
+to change out a head or a different
+socket then they go this side right they
+
+148
+00:09:54,180 --> 00:09:57,449
+have a number of different sockets that
+could choose from again depending on
+
+149
+00:09:57,450 --> 00:10:00,540
+what they want to do and there would be
+stored on something like this we call a
+
+150
+00:10:00,540 --> 00:10:04,890
+socket caddy and so you have a pin you
+would insert it into this hole in the
+
+151
+00:10:04,890 --> 00:10:08,380
+socket and so now both of these are
+tethered
+
+152
+00:10:08,380 --> 00:10:14,110
+move it over to the wrench and your
+seizure right so at no point was that
+
+153
+00:10:14,110 --> 00:10:18,760
+socket free to float away there you go
+that's the astronauts tool belt their
+
+154
+00:10:18,760 --> 00:10:22,210
+extended daily carry if you will when
+they're out outside the space station
+
+155
+00:10:22,210 --> 00:10:27,700
+right and then all this plus the EMU is
+how they survive and operate and work
+
+156
+00:10:27,700 --> 00:10:32,140
+when they're in space very cool thank
+you so much Terry we'll have more from
+
+157
+00:10:32,140 --> 00:10:37,380
+NASA and Johnson Space Center and the
+NBL on test comm I'm norm CX I'm right
+
+158
+00:10:37,380 --> 00:10:44,790
+he did including video video game
+
+159
+00:10:54,160 --> 00:10:56,219
+you
+
